@@ -1,2 +1,1 @@
--> Currency Converter GUI 
--> Used to inter-convert multiple currencies into each other to figure out an exact estimate
+-> Currency Converter GUI used to inter-convert multiple currencies into each other to figure out an exact estimate
