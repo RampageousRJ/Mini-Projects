@@ -1,0 +1,20 @@
+D:\210953080\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\210953080\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\210953080\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\210953080\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Second Year\Fourth Semester\DBS\DBS Lab\Calculator\Calculator\obj\Debug\Calculator.pdb
