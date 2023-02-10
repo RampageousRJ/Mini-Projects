@@ -17,5 +17,3 @@ Aspiring sophomore developer pursuing B.Tech in Computers and Communication at M
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RampageousRJ&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
