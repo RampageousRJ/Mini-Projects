@@ -26,7 +26,7 @@ Unresponsive landing page for a custom gym 'Kratos' which involves functionaliti
 
 ## Hostel Management System
 
-Java-based application that helps users to book hostel rooms according to eligibility criteria and throws exception for illegal arguments.
+Java-based application that helps users to book hostel rooms according to eligibility criteria and throws exception for illegal arguments. Can be improved further by implementing backend and GUI for the same.
 
 ## QRCode Generator
 
