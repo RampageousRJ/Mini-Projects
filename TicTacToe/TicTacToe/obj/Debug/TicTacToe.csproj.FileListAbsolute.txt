@@ -1,0 +1,11 @@
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Landing.resources
+E:\Study\OneDrive - Manipal Academy of Higher Education\Coding\Mini-Projects\Tictactoe Game\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
