@@ -8,10 +8,6 @@ Basic beginner practice projects along he way of learning!
 
 Powerful java swing driven code that provides functionalities like converting simple text to encoded text using a user defined key.
 
-## Cafe Menu
-
-Unresponsive webpage containing a menu styled layout to project items at a custom cafe.
-
 ## Currency Converter
 
 Java swing driven currency converter code that helps users to convert a certian currency value to a different currency making use of hashmaps and combo-box functionalities.
