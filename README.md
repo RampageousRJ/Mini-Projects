@@ -27,3 +27,7 @@ Java-based application that helps users to book hostel rooms according to eligib
 ## QRCode Generator
 
 Python based code to implement generation of random QRCodes for a certain link.
+
+## Tic-Tac-Toe Game
+
+The classic game of cross and knots reproduced as a GUI based application using C#. 
